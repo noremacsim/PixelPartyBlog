@@ -25,6 +25,16 @@ export default [
                   },
                   "blogPosts": {
                     "@type": "BlogPosting",
+                    "headline": "PixelParty Wedding Blog",
+                      "author": {
+                        "@type": "Organization",
+                        "name": "PixelParty",
+                        "url": "https://pixelparty.site/blog/"
+                      },
+                      "image": {
+                        "@type": "ImageObject",
+                        "url": "https://pixelparty.site/img/icons/114.png",
+                      },
                     "itemListElement": [
 {
             "@type": "ListItem",

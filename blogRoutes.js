@@ -32,7 +32,6 @@ export default [
             "headline": "A Review of PixelParty, the Ultimate Wedding Disposable Camera App",
             "url": "https://pixelparty.site/blog/posts/A-Review-of-PixelParty-the-Ultimate-Wedding-Disposable-Camera-App",
             "name": "A Review of PixelParty, the Ultimate Wedding Disposable Camera App",
-            "image": "https://pixelparty.site/blog/images/pasted-7.png",
             "isAccessibleForFree": true,
               "author": {
                 "@type": "Organization",
@@ -49,7 +48,6 @@ export default [
             "headline": "Hey party people!",
             "url": "https://pixelparty.site/blog/posts/Hey-party-people",
             "name": "Hey party people!",
-            "image": "https://pixelparty.site/blog/images/pasted-10.png",
             "isAccessibleForFree": true,
               "author": {
                 "@type": "Organization",
@@ -66,7 +64,6 @@ export default [
             "headline": "Introducing PixelParty: Your Ultimate Disposable Camera App Experience!",
             "url": "https://pixelparty.site/blog/posts/Introducing-PixelParty-Your-Ultimate-Disposable-Camera-App-Experience",
             "name": "Introducing PixelParty: Your Ultimate Disposable Camera App Experience!",
-            "image": "https://pixelparty.site/blog/images/pasted-11.png",
             "isAccessibleForFree": true,
               "author": {
                 "@type": "Organization",
@@ -83,7 +80,6 @@ export default [
             "headline": "PixelParty - Revolutionizing Wedding Photography & Memories",
             "url": "https://pixelparty.site/blog/posts/PixelParty-Revolutionizing-Wedding-Photography-Memories",
             "name": "PixelParty - Revolutionizing Wedding Photography & Memories",
-            "image": "https://pixelparty.site/blog/images/pasted-0.png",
             "isAccessibleForFree": true,
               "author": {
                 "@type": "Organization",
@@ -100,7 +96,6 @@ export default [
             "headline": "PixelParty: Revolutionizing Wedding Photography & Memories",
             "url": "https://pixelparty.site/blog/posts/Test-Post",
             "name": "PixelParty: Revolutionizing Wedding Photography & Memories",
-            "image": "https://pixelparty.site/blog/images/pasted-0.png",
             "isAccessibleForFree": true,
               "author": {
                 "@type": "Organization",
@@ -191,7 +186,7 @@ export default [
                   "dateModified": "2024-06-18T15:51:41+00:00",
                   "author": {
                     "@type": "Organization",
-                    "name": "PixelParty"
+                    "name": "PixelParty",
                     "url": "https://pixelparty.site/blog/"
                   },
                   "publisher": {
@@ -282,7 +277,7 @@ export default [
                   "dateModified": "2024-06-18T17:29:27+00:00",
                   "author": {
                     "@type": "Organization",
-                    "name": "PixelParty"
+                    "name": "PixelParty",
                     "url": "https://pixelparty.site/blog/"
                   },
                   "publisher": {
@@ -373,7 +368,7 @@ export default [
                   "dateModified": "2024-06-18T17:35:07+00:00",
                   "author": {
                     "@type": "Organization",
-                    "name": "PixelParty"
+                    "name": "PixelParty",
                     "url": "https://pixelparty.site/blog/"
                   },
                   "publisher": {
@@ -464,7 +459,7 @@ export default [
                   "dateModified": "2024-06-18T15:23:25+00:00",
                   "author": {
                     "@type": "Organization",
-                    "name": "PixelParty"
+                    "name": "PixelParty",
                     "url": "https://pixelparty.site/blog/"
                   },
                   "publisher": {
@@ -555,7 +550,7 @@ export default [
                   "dateModified": "2024-06-17T00:19:00+00:00",
                   "author": {
                     "@type": "Organization",
-                    "name": "PixelParty"
+                    "name": "PixelParty",
                     "url": "https://pixelparty.site/blog/"
                   },
                   "publisher": {

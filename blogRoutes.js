@@ -4,6 +4,47 @@ export default [
         path: '/blog',
         component: () => import('@/views/blog/blog.vue'),
             meta: {
+                title: 'PixelParty - Blog',
+                metaTags: [
+                {
+                  name: 'description',
+                  content: 'Blog posts about weddings and the latest features, updates and news about the app.'
+                },
+                {
+                  name: 'keywords',
+                  content: 'Wedding Blog, Disposable Camera Blog, POV Blog, Lense Blog, Wedding app Blog, Disposable Camera, Disposable Camera App'
+                },
+                // Twitter Card
+                {
+                  name: 'twitter:card',
+                  content: 'summary_large_image'
+                },
+                {
+                  name: 'twitter:title',
+                  content: 'PixelParty - Blog'
+                },
+                {
+                  name: 'twitter:description',
+                  content: 'Blog posts about weddings and the latest features, updates and news about the app.'
+                },
+                // Open Graph
+                {
+                  property: 'og:title',
+                  content: 'PixelParty - Blog'
+                },
+                {
+                  property: 'og:type',
+                  content: 'website'
+                },
+                {
+                  property: 'og:site_name',
+                  content: 'PixelParty - Blog'
+                },
+                {
+                  property: 'og:description',
+                  content: 'Blog posts about weddings and the latest features, updates and news about the app.'
+                },
+              ],
                 jsonLd: {
                   "@context": "https://schema.org",
                   "@type": "Blog",

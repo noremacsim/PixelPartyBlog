@@ -1,7 +1,7 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="title" content="">
-<meta name="date" content="Jun 19, 2024">
+<meta name="date" content="2024-06-19T11:12:12+00:00">
 
 
 <meta name="url" content="" >
@@ -108,6 +108,31 @@
                     </div>
                     <span class="post-date">
                         Jun 18, 2024
+                    </span>
+                </div>
+                <div class="post-img">
+                    
+                    
+                        <img src="/blog/images/pasted-0.png" alt="post-image">
+                    
+                </div>
+            </div>
+            <div class="h-line-secondary"></div>
+        
+            <div class="post-gallery-item">
+                <div class="post-info">
+                    <div class="tag-list">
+                        
+                    </div>
+                    <div class="post-title">
+                        <a href="/blog/posts/Test-Post">
+                            
+                                PixelParty: Revolutionizing Wedding Photography &amp; Memories
+                            
+                        </a>
+                    </div>
+                    <span class="post-date">
+                        Jun 17, 2024
                     </span>
                 </div>
                 <div class="post-img">

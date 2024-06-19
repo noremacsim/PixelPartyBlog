@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://pixelparty.site/blog/posts/Test-Post</loc>
+        
+        <lastmod>2024-06-19</lastmod>
+        
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
         <loc>https://pixelparty.site/blog/posts/Introducing-PixelParty-Your-Ultimate-Disposable-Camera-App-Experience</loc>
         
         <lastmod>2024-06-18</lastmod>

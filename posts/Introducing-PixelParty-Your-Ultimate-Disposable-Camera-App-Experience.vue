@@ -42,7 +42,7 @@
               
     </div>
 </div>
-    <div class="post-content">
+    <div class="post-content" id="post_content">
     <p><img src="/blog/images/pasted-11.png" alt="upload successful"></p>
 <p>In an era defined by digital innovation, the quest to preserve our most cherished moments has never been more vital. Yet, amidst the sea of smartphones and selfie sticks, capturing the essence of these occasions can often feel like an uphill battle.</p>
 <p>But fear not, because PixelParty is here to revolutionize the way you capture memories — introducing the ultimate disposable camera app experience!</p>

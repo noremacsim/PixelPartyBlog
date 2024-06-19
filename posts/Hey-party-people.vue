@@ -42,7 +42,7 @@
               
     </div>
 </div>
-    <div class="post-content">
+    <div class="post-content" id="post_content">
     <p><img src="/blog/images/pasted-10.png" alt="upload successful"></p>
 <p>Are you ready to take your next bash to the next level? Say hello to PixelParty — the ultimate solution for capturing all the fun, frolics, and fantastic memories at your next soirée! Whether you’re planning a birthday blowout, a graduation gala, or just a spontaneous gathering of friends, PixelParty is here to make sure every moment is immortalized in pixel-perfect glory.</p>
 <p>Gone are the days of disposable cameras cluttering up your space. With PixelParty, all you need is your trusty smartphone and a sense of adventure. Simply hop onto <a href="https://pixelparty.site/parties">https://pixelparty.site/parties</a> and let the magic begin.</p>

@@ -28,12 +28,12 @@
         <div class="post-title">
             
             
-                PixelParty - Revolutionizing Wedding Photography &amp; Memories
+                PixelParty: Revolutionizing Wedding Photography &amp; Memories
             
             
         </div>
         <span class="post-date">
-            Jun 18, 2024
+            Jun 17, 2024
         </span>
     </div>
     <div class="post-img">
@@ -46,7 +46,7 @@
     <h1 id="Discover-PixelParty-Your-Ultimate-Wedding-Photography-Solution"><a href="#Discover-PixelParty-Your-Ultimate-Wedding-Photography-Solution" class="headerlink" title="Discover PixelParty: Your Ultimate Wedding Photography Solution"></a>Discover PixelParty: Your Ultimate Wedding Photography Solution</h1><p><img src="/blog/images/pasted-0.png" alt="upload successful"></p>
 <h2 id="Hey-there-fellow-wedding-enthusiasts"><a href="#Hey-there-fellow-wedding-enthusiasts" class="headerlink" title="Hey there, fellow wedding enthusiasts!"></a>Hey there, fellow wedding enthusiasts!</h2><p>Today, I’m beyond excited to share my firsthand experience with a game-changing wedding photography solution that’s set to revolutionize the way we capture those magical moments on the big day. Enter <strong>PixelParty</strong> — the ultimate disposable camera app experience, tailor-made for your wedding extravaganza!</p>
 <h3 id="Capture-Every-Moment-Effortlessly"><a href="#Capture-Every-Moment-Effortlessly" class="headerlink" title="Capture Every Moment, Effortlessly"></a>Capture Every Moment, Effortlessly</h3><p>Picture this: You’re on the brink of your long-awaited wedding day, a symphony of love, laughter, and lifelong promises. Amidst the flurry of excitement, <strong>PixelParty</strong> emerges as the unsung hero, offering a user-friendly interface and intuitive features to curate your dream wedding album. With just a few taps at <a href="https://pixelparty.site/weddings">PixelParty Weddings</a>, your journey to forever begins.</p>
-<p><img src="/blog/images/pasted-1.png" alt="upload successful"></p>
+<p><img src="/blog/%5Cimages%5Cpasted-1.png%5C" alt="upload successful"></p>
 <h3 id="Seamlessly-Share-Your-Wedding-Story"><a href="#Seamlessly-Share-Your-Wedding-Story" class="headerlink" title="Seamlessly Share Your Wedding Story"></a>Seamlessly Share Your Wedding Story</h3><p>But <strong>PixelParty</strong> is so much more than a mere platform — it’s a testament to the power of collaboration and creativity, perfectly attuned to the rhythm of your wedding celebrations. As your event unfolds, <strong>PixelParty</strong> presents your guests with a unique QR code, granting them exclusive access to the shared wedding album.</p>
 <h3 id="Embrace-the-Magic-of-Collective-Memories"><a href="#Embrace-the-Magic-of-Collective-Memories" class="headerlink" title="Embrace the Magic of Collective Memories"></a>Embrace the Magic of Collective Memories</h3><p>Here’s where the magic truly unfolds: Guests effortlessly join the album, wielding their smartphones like modern-day wizards to capture every heartfelt vow, tender moment, and joyous embrace. With <strong>PixelParty</strong>, every aspect of your love story is immortalized from a kaleidoscope of perspectives, ensuring that no cherished moment goes undocumented.</p>
 <h3 id="Transform-Digital-into-Tangible-Keepsakes"><a href="#Transform-Digital-into-Tangible-Keepsakes" class="headerlink" title="Transform Digital into Tangible Keepsakes"></a>Transform Digital into Tangible Keepsakes</h3><p>But that’s not all — <strong>PixelParty</strong> goes above and beyond by transforming your digital memories into tangible keepsakes with the option to print personalized QR codes. Imagine the delight of your guests as they receive beautifully crafted QR code cards, each a portal to a treasure trove of wedding memories, shared and celebrated together.</p>
@@ -64,16 +64,11 @@
            
                 <div class="icon arrow-left"></div>
                 <div class="post-link">
-                    <a href="/blog/posts/A-Review-of-PixelParty-the-Ultimate-Wedding-Disposable-Camera-App">Prev</a>
+                    <a href="/blog/posts/PixelParty-Revolutionizing-Wedding-Photography-Memories">Prev</a>
                 </div>
             
         </div>
         <div class="next-item">
-            
-                <div class="icon arrow-right"></div>
-                <div class="post-link">
-                  <a href="/blog/posts/Test-Post">Next</a>  
-                </div>  
             
         </div>
     </nav>

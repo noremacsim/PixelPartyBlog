@@ -1,13 +1,13 @@
-<meta name="description" content="Elevate your next event with PixelParty, the ultimate party photography app. Capture and share every moment with ease using a unique QR code. Join the party revolution today!">
-<meta name="keywords" content="party photography, PixelParty app, QR code photos, event memories, digital scrapbooking, party planning, smartphone photography, personalized QR cards, photo sharing, party albums, party memories, event photography, graduation party, birthday bash, spontaneous gathering, party revolution, digital memories, party album, 5-star rated app, shared memories.">
-<meta name="title" content="Hey party people!">
-<meta name="date" content="Jun 18, 2024">
 
 
-    <meta name="image" content="https://pixelparty.site/blog/images/pasted-10.png" >
 
-<meta name="url" content="https://pixelparty.site/blog/posts/Hey-party-people" >
-<meta name="author" content="PixelParty">
+
+
+
+    
+
+
+
 
 
 <template>

@@ -1,113 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-<meta name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-    <meta name="author" content="PixelParty">
-
-
-    <meta name="subtitle" content="Photo event sharing app for events blog">
-
-
-    <meta name="description" content="Effortlessly capture and share key moments from your events. Guests can snap photos without sign-up, ensuring a diverse collection of memories. Photos are unveiled the next day, offering a collective glimpse into the event from various perspectives.">
-
-
-    <meta name="keywords" content="Wedding Event Capture, Wedding Moments, Wedding Photography Blog, Wedding Sharing Ideas, Wedding Guest Uploads, Wedding Guest Photos, Wedding Memories, Collective Wedding Memories, Wedding Event Perspective, Instant Wedding Photo Sharing, Wedding Management App, Wedding Photo Platform, Wedding Highlights Blog, Social Wedding Sharing, Wedding Photo Sharing App, Wedding Photos Collaboration, Real-time Wedding Photos, Wedding Photo Archive, Interactive Wedding Memories, Guest Photo Contributions for Weddings, Wedding Blog Ideas, Wedding Event App Features, Creative Wedding Photo Sharing, Unique Wedding Moments, Wedding Planning Blog">
 
 
 
 
-<title>PixelParty: Revolutionizing Wedding Photography &amp; Memories | PixelParty Blog the events app</title>
 
 
-
-    <link rel="icon" href="/blog/favicon.ico">
-
-
-
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Roboto+Mono&display=swap');
-</style>
-
-
-
-    <!-- stylesheets list from _config.yml -->
-    
-    <link rel="stylesheet" href="/blog/css/style.css">
-    
-
-
-
-
-    <!-- scripts list from _config.yml -->
-    
-    <script src="/blog/js/menu.js"></script>
     
 
 
 
 
 
-
-
-
-
-
-  <meta name="generator" content="Hexo 7.2.0"></head>
-  <body>
-    <div class="mask-border">
-    </div>
-
-    <div class="wrapper">
-
-      <div class="header">
-  <div class="flex-container">
-    <div class="header-inner">
-      <div class="site-brand-container">
-        <a href="/blog/">
-          
-            <img class="logo-img" src="/blog/images/logo.PNG" alt="logo_image">
-          
-        </a>
-      </div>
-      <div id="menu-btn" class="menu-btn" onclick="toggleMenu()">
-        Menu
-      </div>
-      <nav class="site-nav">
-        <ul class="menu-list">
-          
-            
-              <li class="menu-item">
-                <a href="/blog/">Home</a>
-              </li> 
-                   
-          
-            
-              <li class="menu-item">
-                <a href="https://pixelparty.site">App</a>
-              </li> 
-                   
-          
-            
-              <li class="menu-item">
-                <a href="/blog/archives/">Blog</a>
-              </li> 
-                   
-          
-          
-        </ul>
-      </nav>
-    </div>
-  </div>
-</div>
-
-
-      <div class="main">
-        <div class="flex-container">
-          <article id="post">
+<template>
+  <ion-page>
+    <ion-content>
+      <nav-bar />
+          <div class="wrapper">
+            <div class="main">
+              <div class="flex-container">
+                <article id="post">
 
   
     <div class="post-head">
@@ -118,12 +28,12 @@
         <div class="post-title">
             
             
-                PixelParty: Revolutionizing Wedding Photography &amp; Memories
+                PixelParty - Revolutionizing Wedding Photography &amp; Memories
             
             
         </div>
         <span class="post-date">
-            Jun 17, 2024
+            Jun 18, 2024
         </span>
     </div>
     <div class="post-img">
@@ -146,18 +56,24 @@
 <h3 id="Join-the-Wedding-Revolution-Today"><a href="#Join-the-Wedding-Revolution-Today" class="headerlink" title="Join the Wedding Revolution Today"></a>Join the Wedding Revolution Today</h3><p><img src="/blog/images/pasted-3.png" alt="upload successful"></p>
 <p>So, whether you’re planning an intimate gathering or a grand affair, <strong>PixelParty</strong> stands ready to be your steadfast companion on this enchanting journey. Join the wedding revolution today at <a href="https://pixelparty.site/weddings">PixelParty Weddings</a> and let’s paint the canvas of your wedding day with pixels — one cherished memory at a time.</p>
 <h3 id="Here’s-to-celebrating-love-laughter-and-happily-ever-after-with-PixelParty"><a href="#Here’s-to-celebrating-love-laughter-and-happily-ever-after-with-PixelParty" class="headerlink" title="Here’s to celebrating love, laughter, and happily ever after with PixelParty!"></a>Here’s to celebrating love, laughter, and happily ever after with PixelParty!</h3>
-</div> 
-
-<script>
-    window.onload = detectors();
-</script>
+</div>
     <div class="post-footer">
     <div class="h-line-primary"></div>
     <nav class="post-nav">
         <div class="prev-item">
            
+                <div class="icon arrow-left"></div>
+                <div class="post-link">
+                    <a href="/blog/posts/A-Review-of-PixelParty-the-Ultimate-Wedding-Disposable-Camera-App">Prev</a>
+                </div>
+            
         </div>
         <div class="next-item">
+            
+                <div class="icon arrow-right"></div>
+                <div class="post-link">
+                  <a href="/blog/posts/Test-Post">Next</a>  
+                </div>  
             
         </div>
     </nav>
@@ -176,25 +92,26 @@
      
   
 </article>
-        </div>
-      </div>
+s
+              </div>
+            </div>
+          </div>
+      <footer-container />
+    </ion-content>
+  </ion-page>
+</template>
+
+<style scoped>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Roboto+Mono&display=swap');
+  
       
-      <div class="footer">
-    <div class="flex-container">
-        <div class="footer-text">
-            
-            
-                © 2024 Copyright - pixelparty | 
-            
-                
-        </div>
-    </div>
-</div>
+            @import '/blog/css/style.css';
+      
+  
+</style>
 
-    </div>
-
-    
-    
-
-  </body>
-</html>
+<script setup>
+    import {IonContent, IonPage} from "@ionic/vue";
+    import NavBar from "@/components/homePage/navBar.vue";
+    import FooterContainer from "@/components/homePage/footerContainer.vue";
+</script>

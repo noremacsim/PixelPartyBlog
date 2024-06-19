@@ -119,31 +119,6 @@
             </div>
             <div class="h-line-secondary"></div>
         
-            <div class="post-gallery-item">
-                <div class="post-info">
-                    <div class="tag-list">
-                        
-                    </div>
-                    <div class="post-title">
-                        <a href="/blog/posts/Test-Post">
-                            
-                                PixelParty: Revolutionizing Wedding Photography &amp; Memories
-                            
-                        </a>
-                    </div>
-                    <span class="post-date">
-                        Jun 17, 2024
-                    </span>
-                </div>
-                <div class="post-img">
-                    
-                    
-                        <img src="/blog/images/pasted-0.png" alt="post-image">
-                    
-                </div>
-            </div>
-            <div class="h-line-secondary"></div>
-        
     </div>
     <div id="paginator">
         

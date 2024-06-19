@@ -70,11 +70,6 @@
         </div>
         <div class="next-item">
             
-                <div class="icon arrow-right"></div>
-                <div class="post-link">
-                  <a href="/blog/posts/Test-Post">Next</a>  
-                </div>  
-            
         </div>
     </nav>
 </div>

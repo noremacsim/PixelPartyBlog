@@ -1,7 +1,7 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="title" content="">
-<meta name="date" content="2024-06-19T21:09:33+00:00">
+<meta name="date" content="2024-07-01T20:08:30+00:00">
 
 
 <meta name="url" content="" >
@@ -18,6 +18,31 @@
                 <div id="category">
   <div class="post-gallery">
     <div class="post-gallery-list">
+        
+            <div class="post-gallery-item">
+                <div class="post-info">
+                    <div class="tag-list">
+                        
+                    </div>
+                    <div class="post-title">
+                        <a href="/blog/posts/Capture-Your-Perfect-Day-Through-a-Unique-Lense-with-PixelParty-The-Ultimate-Wedding-Disposable-Camera-App">
+                            
+                                Capture Your Perfect Day Through a Unique Lense with PixelParty: The Ultimate Wedding Disposable Camera App
+                            
+                        </a>
+                    </div>
+                    <span class="post-date">
+                        Jun 26, 2024
+                    </span>
+                </div>
+                <div class="post-img">
+                    
+                    
+                        <img src="/blog/images/pasted-12.png" alt="post-image">
+                    
+                </div>
+            </div>
+            <div class="h-line-secondary"></div>
         
             <div class="post-gallery-item">
                 <div class="post-info">

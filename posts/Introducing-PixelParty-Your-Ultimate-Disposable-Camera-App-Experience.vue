@@ -60,6 +60,11 @@
     <nav class="post-nav">
         <div class="prev-item">
            
+                <div class="icon arrow-left"></div>
+                <div class="post-link">
+                    <a href="/blog/posts/Capture-Your-Perfect-Day-Through-a-Unique-Lense-with-PixelParty-The-Ultimate-Wedding-Disposable-Camera-App">Prev</a>
+                </div>
+            
         </div>
         <div class="next-item">
             

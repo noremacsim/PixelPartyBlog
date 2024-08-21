@@ -1,13 +1,3 @@
-<meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="title" content="">
-<meta name="date" content="2024-07-01T20:08:30+00:00">
-
-
-<meta name="url" content="" >
-<meta name="author" content="PixelParty">
-
-
 <template>
   <ion-page>
     <ion-content>
